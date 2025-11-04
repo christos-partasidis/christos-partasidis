@@ -37,15 +37,15 @@ Studying elasticity based portfolio replication with risk metrics evaluation.
 
 FoodCloud is an app that manages the shopping for you, from the supermarket to the kitchen: the app keeps track of the whole inventory of the household, sends a notification when a product is about to expire, suggests recipes with what you have and creates a smart shopping list that can be shared. Each family member has its own account and they all access the same household.
 
-- Stack: React Native (Expo), Firebase, Javascript, OCR Pipeline, Computer Vision  
-- Website: https://www.foodcloud.app/  
-- Preview (Mock Up/Old Version): https://atakankahya.github.io/food_cloud_dev/
+- [Website](https://www.foodcloud.app/)
+- [View project (mock up)](https://atakankahya.github.io/food_cloud_dev/)
+- Stack: React Native, Expo, Firebase, Javascript, OCR Pipeline, Computer Vision  
 
 ### Flat Heroes - Browser Arcade Game  
 
 Recreating Flat Heroes gameplay using JavaScript + HTML Canvas. Includes custom physics, collisions, and multiplayer input handling.  
-- Stack: JavaScript, Canvas API, OOP  
 - [View project](https://github.com/christos-partasidis/Flat_Heroes_UNICA_Chris_Thomas)
+- Stack: JavaScript, Canvas API, OOP  
 
 ## Education
 ### MSc Computer Science & Engineering - Politecnico di Milano  
