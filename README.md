@@ -8,7 +8,8 @@
    Innovation at the intersection of Software Engineering, Finance, and Security is what motivates me. I am looking forward to full-time opportunities throughout Europe in FinTech engineering, blockchain, software security, or other digital innovation roles
 
 ## Professional Experience:
-### Junior Web Engineer - Alphamega (Largest retail chain in Cyprus)
+### Junior Web Engineer - Alphamega 
+- Largest retail chain in Cyprus
 - Built & optimized web flows used by 10K+ daily users
 - Improved checkout, content automation & digital experience  
 - Tech: JavaScript, SQL, CMS, Power BI
@@ -16,6 +17,7 @@
 ### Assurance Transformation Intern - PwC
 - Automated audit workflows with Alteryx
 - Built Power BI dashboards for audit & financial reports
+- Tech: Alteryx, Power BI, RPA
 
 ### Tech Consulting Intern - EY
 - Developed & optimized public sector portal  
@@ -31,13 +33,19 @@ Studying elasticity based portfolio replication with risk metrics evaluation.
 - Rolling windows, VaR constraints, and multi-objective tuning
 - Tech: Python, scikit-learn, pandas, NumPy, Jupyter
 
-### FoodCloud - Smart Kitchen Inventory App** 
+### FoodCloud - Smart Kitchen Inventory App
 
 FoodCloud is an app that manages the shopping for you, from the supermarket to the kitchen: the app keeps track of the whole inventory of the household, sends a notification when a product is about to expire, suggests recipes with what you have and creates a smart shopping list that can be shared. Each family member has its own account and they all access the same household.
 
 - Stack: React Native (Expo), Firebase, Javascript, OCR Pipeline, Computer Vision  
 - Website: https://www.foodcloud.app/  
 - Preview (Mock Up/Old Version): https://atakankahya.github.io/food_cloud_dev/
+
+### Flat Heroes - Browser Arcade Game  
+
+Recreating Flat Heroes gameplay using JavaScript + HTML Canvas. Includes custom physics, collisions, and multiplayer input handling.  
+- Stack: JavaScript, Canvas API, OOP  
+- [View project](https://github.com/christos-partasidis/Flat_Heroes_UNICA_Chris_Thomas)
 
 ## Education
 ### MSc Computer Science & Engineering - Politecnico di Milano  
@@ -48,12 +56,12 @@ FoodCloud is an app that manages the shopping for you, from the supermarket to t
 - Blockchain, Cybersecurity, P2P Systems  
 - EIT Digital Excellence Scholarship
 
-### BSc Computer Engineering - University of Cyprus* 
+### BSc Computer Engineering - University of Cyprus
 - Graduated Excellent (8.89/10)
 
 ## Highlights
-- Winner — JA Cyprus Startup Competition
-- Top-10 Finalist — Polimi Innovation Challenge (SINN)
+- Winner - JA Cyprus Startup Competition
+- Top-10 Finalist - Polimi Innovation Challenge (SINN)
 - Google Developer Student Community contributor
 - Texas A&M University AI Summer School
 
@@ -80,6 +88,7 @@ FoodCloud is an app that manages the shopping for you, from the supermarket to t
 
 ![Git](https://img.shields.io/badge/Git-FF7B00?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-FF7B00?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-FF7B00?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ## Languages
 
