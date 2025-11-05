@@ -47,6 +47,11 @@ Recreating Flat Heroes gameplay using JavaScript + HTML Canvas. Includes custom 
 - [View project](https://github.com/christos-partasidis/Flat_Heroes_UNICA_Chris_Thomas)
 - Stack: JavaScript, Canvas API, OOP  
 
+### 3D Reconstruction Evaluation Pipeline (Bachelor Thesis)
+Evaluation framework to benchmark COLMAP and VRG 3D reconstruction pipelines. Supports automated reconstruction, point cloud comparison, error metrics, and visualization.
+- [View project](https://github.com/christos-partasidis/bachelor-thesis-3d-reconstruction-evaluation-pipeline)
+- Stack: Python, C++ COLMAP, VRG, Open3D, Numpy
+
 ## Education
 ### MSc Computer Science & Engineering - Politecnico di Milano  
 - Web Security, FinTech Engineering, Strategy & Innovation  
