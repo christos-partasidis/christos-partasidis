@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF7B00&width=500&lines=Hi,+I'm+Christos+;Nice+to+meet+you+%3A-%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=000000&width=500&lines=Hi,+I'm+Christos+;Nice+to+meet+you+%3A-%29)](https://git.io/typing-svg)
 
 ## Professional Summary:
   FinTech oriented Software and Computer Engineer with experience in building secure web systems, automating data workflows, and supporting digital transformation in enterprise environments. Delivered digital platforms and process automation for AlphaMega, PwC, and EY, by usings tools such as SQL, JavaScript, Power BI, and Alteryx.
