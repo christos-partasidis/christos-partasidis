@@ -1,11 +1,51 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=000000&width=500&lines=Hi,+I'm+Christos+;Nice+to+meet+you+%3A-%29)](https://git.io/typing-svg)
 
 ## Professional Summary:
-  FinTech oriented Software and Computer Engineer with experience in building secure web systems, automating data workflows, and supporting digital transformation in enterprise environments. Delivered digital platforms and process automation for AlphaMega, PwC, and EY, by usings tools such as SQL, JavaScript, Power BI, and Alteryx.
-
-   Currently pursuing a dual MSc. in Computer Science & Financial Technologies through the EIT Digital program at Politecnico di Milano and Université Côte d'Azur, with specialization in software security, blockchain, digital business innovation, and entrepreneurship. Background in academic research at Texas A&M and University of Cyprus. Recognized in innovation competitions and research programs, including JA StartUp Winner and Top-10 finalist at Polimi SINN.
+   Currently pursuing a double Masters MSc. in Computer Science & Financial Technologies at Politecnico di Milano and Université Côte d'Azur, with specialization in software security, blockchain, digital business innovation, and entrepreneurship. Background in academic research at Texas A&M and University of Cyprus. Recognized in innovation competitions and research programs, including JA StartUp Winner and Top-10 finalist at Polimi SINN.
    
    Innovation at the intersection of Software Engineering, Finance, and Security is what motivates me. I am looking forward to full-time opportunities throughout Europe in FinTech engineering, blockchain, software security, or other digital innovation roles
+
+## Projects:
+### Constellation: Safer Smart Contract Upgradability
+
+A blockchain research project introducing a modular upgradability pattern designed to improve safety, compliance, rollback efficiency, and verification in smart contracts.
+
+- [Website](https://github.com/christos-partasidis/constellation-pattern)
+
+### Formal Verification Methods for Ethereum Smart Contracts
+
+Analyzed 2024–2025 research on theorem proving and model checking to strengthen Ethereum smart contract security through mathematical verification. Compared leading tools (Certora, SolCMC) and proposed a hybrid pipeline integrating economic and code level verification for DeFi systems.
+
+- [Website](https://github.com/christos-partasidis/Literature-Review-Formal-Verification-Smart-Contracts/tree/main)
+
+### Foodino - Smart Kitchen Inventory App
+
+FoodCloud is an app that manages the shopping for you, from the supermarket to the kitchen: the app keeps track of the whole inventory of the household, sends a notification when a product is about to expire, suggests recipes with what you have and creates a smart shopping list that can be shared. Each family member has its own account and they all access the same household.
+
+- [Website](https://www.foodcloud.app/)
+- [View project (mock up)](https://atakankahya.github.io/food_cloud_dev/)
+- Stack: React Native, Expo, Firebase, Javascript, OCR Pipeline, Computer Vision
+
+### Portfolio Replication & Alpha Strategy Models
+
+Studying elasticity based portfolio replication with risk metrics evaluation.
+
+- ElasticNet, Lasso, Ridge experiments
+- Rolling windows, VaR constraints, and multi-objective tuning
+- Tech: Python, scikit-learn, pandas, NumPy, Jupyter
+
+
+## Education
+### MSc Computer Science & Engineering - Politecnico di Milano  
+- Web Security, FinTech Engineering, Strategy & Innovation  
+- EIT Digital Excellence Scholarship
+
+### MSc Financial Technologies - Université Côte d’Azur
+- Blockchain, Cybersecurity, P2P Systems  
+- EIT Digital Excellence Scholarship
+
+### BSc Computer Engineering - University of Cyprus
+- Computer Architecture, Operating System, Data Structure & Algorithms, Mathematics, Physics
 
 ## Professional Experience:
 ### Junior Web Engineer - Alphamega 
@@ -23,46 +63,6 @@
 - Developed & optimized public sector portal  
 - Improved system performance and online service UX by 20%
 - Tech: WordPress, SQL, Web Ops
-
-## Projects:
-### Portfolio Replication & Alpha Strategy Models
-
-Studying elasticity based portfolio replication with risk metrics evaluation.
-
-- ElasticNet, Lasso, Ridge experiments
-- Rolling windows, VaR constraints, and multi-objective tuning
-- Tech: Python, scikit-learn, pandas, NumPy, Jupyter
-
-### FoodCloud - Smart Kitchen Inventory App
-
-FoodCloud is an app that manages the shopping for you, from the supermarket to the kitchen: the app keeps track of the whole inventory of the household, sends a notification when a product is about to expire, suggests recipes with what you have and creates a smart shopping list that can be shared. Each family member has its own account and they all access the same household.
-
-- [Website](https://www.foodcloud.app/)
-- [View project (mock up)](https://atakankahya.github.io/food_cloud_dev/)
-- Stack: React Native, Expo, Firebase, Javascript, OCR Pipeline, Computer Vision  
-
-### Flat Heroes - Browser Arcade Game  
-
-Recreating Flat Heroes gameplay using JavaScript + HTML Canvas. Includes custom physics, collisions, and multiplayer input handling.  
-- [View project](https://github.com/christos-partasidis/Flat_Heroes_UNICA_Chris_Thomas)
-- Stack: JavaScript, Canvas API, OOP  
-
-### 3D Reconstruction Evaluation Pipeline (Bachelor Thesis)
-Evaluation framework to benchmark COLMAP and VRG 3D reconstruction pipelines. Supports automated reconstruction, point cloud comparison, error metrics, and visualization.
-- [View project](https://github.com/christos-partasidis/bachelor-thesis-3d-reconstruction-evaluation-pipeline)
-- Stack: Python, C++ COLMAP, VRG, Open3D, Numpy
-
-## Education
-### MSc Computer Science & Engineering - Politecnico di Milano  
-- Web Security, FinTech Engineering, Strategy & Innovation  
-- EIT Digital Excellence Scholarship
-
-### MSc Financial Technologies - Université Côte d’Azur
-- Blockchain, Cybersecurity, P2P Systems  
-- EIT Digital Excellence Scholarship
-
-### BSc Computer Engineering - University of Cyprus
-- Graduated Excellent (8.89/10)
 
 ## Highlights
 - Winner - JA Cyprus Startup Competition
@@ -99,9 +99,8 @@ Evaluation framework to benchmark COLMAP and VRG 3D reconstruction pipelines. Su
 
 [![English](https://img.shields.io/badge/🇬🇧_English-Fluent-FF7B00?style=for-the-badge)]()
 [![Greek](https://img.shields.io/badge/🇬🇷🇨🇾_Greek-Native-FF7B00?style=for-the-badge)]()
-[![Italian](https://img.shields.io/badge/🇮🇹_Italian-Learning(A1)-FF7B00?style=for-the-badge)]()
-[![French](https://img.shields.io/badge/🇫🇷_French-Learning(A1)-FF7B00?style=for-the-badge)]()
-[![German](https://img.shields.io/badge/🇩🇪_German-Learning(A2)-FF7B00?style=for-the-badge)]()
+[![Italian](https://img.shields.io/badge/🇮🇹_Italian-Learning(A2)-FF7B00?style=for-the-badge)]()
+[![French](https://img.shields.io/badge/🇫🇷_French-Learning(A2)-FF7B00?style=for-the-badge)]()
 
 ## Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF7B00?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christos-partasidis-622354242/)
