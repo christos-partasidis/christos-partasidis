@@ -33,18 +33,33 @@ Studying elasticity based portfolio replication with risk metrics evaluation.
 - Rolling windows, VaR constraints, and multi-objective tuning
 - Tech: Python, scikit-learn, pandas, NumPy, Jupyter
 
-
 ## Education
-### MSc Computer Science & Engineering - Politecnico di Milano  
-- Web Security, FinTech Engineering, Strategy & Innovation  
-- EIT Digital Excellence Scholarship
 
-### MSc Financial Technologies - Université Côte d’Azur
-- Blockchain, Cybersecurity, P2P Systems  
-- EIT Digital Excellence Scholarship
+### Double Master's Degree in Computer Science & Engineering  
+**Politecnico di Milano, Italy** & **Université Côte d’Azur, France**  
+*Sep 2024 – Sep 2026*
 
-### BSc Computer Engineering - University of Cyprus
-- Computer Architecture, Operating System, Data Structure & Algorithms, Mathematics, Physics
+International double-degree program focused on **software engineering, fintech, security, blockchain, distributed systems, and digital innovation**.
+
+**Relevant Coursework**
+- **Politecnico di Milano:** FinTech Engineering, Databases, Software Engineering, Digital Business Innovation, Strategy & Marketing
+- **Université Côte d’Azur:** Security & Privacy, Blockchain, Peer-to-Peer Systems, Actuarial Calculus, Data Science, Applied AI, JavaScript
+
+### BSc in Computer Engineering  
+**University of Cyprus, Nicosia, Cyprus**  
+*Sep 2019 – Jan 2024*
+
+Built a strong engineering foundation across software, systems, mathematics, and computing fundamentals.
+
+**Relevant Coursework**
+- Computer Architecture
+- Data Structures & Algorithms
+- Machine Learning
+- Distributed Systems
+- Mobile Computing
+- Operating Systems
+- Mathematics for Engineers
+- Physics
 
 ## Professional Experience:
 ### Junior Web Engineer - Alphamega 
