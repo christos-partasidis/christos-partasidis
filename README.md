@@ -22,8 +22,7 @@ Analyzed 2024–2025 research on theorem proving and model checking to strengthe
 
 FoodCloud is an app that manages the shopping for you, from the supermarket to the kitchen: the app keeps track of the whole inventory of the household, sends a notification when a product is about to expire, suggests recipes with what you have and creates a smart shopping list that can be shared. Each family member has its own account and they all access the same household.
 
-- [Website](https://www.foodcloud.app/)
-- [View project (mock up)](https://atakankahya.github.io/food_cloud_dev/)
+- [Website](https://www.foodinoapp.com/)
 - Stack: React Native, Expo, Firebase, Javascript, OCR Pipeline, Computer Vision
 
 ### Portfolio Replication & Alpha Strategy Models
