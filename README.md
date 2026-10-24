@@ -65,14 +65,52 @@ Data Structures and Algorithms, Distributed Systems, Operating Systems, Computer
 
 ## Stack
 
-| Area | Tools |
-|---|---|
-| Languages | Python, SQL, JavaScript, Java, C/C++, Solidity |
-| Data and ML | Power BI, Alteryx, Pandas, NumPy, scikit-learn, TensorFlow |
-| AI | LLM agents, explainable AI |
-| Blockchain | Smart contracts, Ethereum, formal verification (Certora, SMTChecker) |
-| Web and product | React Native, Expo, Firebase, WordPress, CI/CD, Git |
+### Languages and frameworks
+
+![Python](https://img.shields.io/badge/Python-1D4ED8?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1D4ED8?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1D4ED8?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-1D4ED8?style=for-the-badge&logo=openjdk&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-1D4ED8?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-1D4ED8?style=for-the-badge&logo=solidity&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-1D4ED8?style=for-the-badge&logo=react&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-1D4ED8?style=for-the-badge&logo=expo&logoColor=white)
+
+### Data and ML
+
+![Power BI](https://img.shields.io/badge/Power_BI-1D4ED8?style=for-the-badge)
+![Alteryx](https://img.shields.io/badge/Alteryx-1D4ED8?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-1D4ED8?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1D4ED8?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1D4ED8?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1D4ED8?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Blockchain
+
+![Ethereum](https://img.shields.io/badge/Ethereum-1D4ED8?style=for-the-badge&logo=ethereum&logoColor=white)
+![Certora](https://img.shields.io/badge/Certora-1D4ED8?style=for-the-badge)
+![SMTChecker](https://img.shields.io/badge/SMTChecker-1D4ED8?style=for-the-badge)
+
+### Tools
+
+![Firebase](https://img.shields.io/badge/Firebase-1D4ED8?style=for-the-badge&logo=firebase&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-1D4ED8?style=for-the-badge&logo=wordpress&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1D4ED8?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1D4ED8?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## Languages
 
-Greek (native), English (fluent), French, Italian and German (A1)
+![Greek](https://img.shields.io/badge/Greek-Native-1D4ED8?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Fluent-1D4ED8?style=for-the-badge)
+![French](https://img.shields.io/badge/French-A1-1D4ED8?style=for-the-badge)
+![Italian](https://img.shields.io/badge/Italian-A1-1D4ED8?style=for-the-badge)
+![German](https://img.shields.io/badge/German-A1-1D4ED8?style=for-the-badge)
+
+## GitHub stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=christos-partasidis&hide_border=true&disable_animations=true&background=0D1117&ring=60A5FA&fire=60A5FA&currStreakLabel=60A5FA&sideNums=E6EDF3&sideLabels=8B949E&dates=8B949E&currStreakNum=E6EDF3&stroke=30363D">
+  <img alt="GitHub streak stats" src="https://streak-stats.demolab.com/?user=christos-partasidis&hide_border=true&disable_animations=true&background=FFFFFF&ring=1D4ED8&fire=1D4ED8&currStreakLabel=1D4ED8&sideNums=24292F&sideLabels=57606A&dates=57606A&currStreakNum=24292F&stroke=D0D7DE">
+</picture>
+
+![Visitors](https://komarev.com/ghpvc/?username=christos-partasidis&style=for-the-badge&color=1D4ED8&label=VISITORS)
