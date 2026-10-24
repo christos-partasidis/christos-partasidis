@@ -106,6 +106,12 @@ Data Structures and Algorithms, Distributed Systems, Operating Systems, Computer
 ![Italian](https://img.shields.io/badge/Italian-A1-1D4ED8?style=for-the-badge)
 ![German](https://img.shields.io/badge/German-A1-1D4ED8?style=for-the-badge)
 
+## Roadmap
+[![roadmap.sh](https://roadmap.sh/card/tall/68947110614598977edd83ec?variant=dark)](https://roadmap.sh)
+
+## Certificates
+Soon
+
 ## GitHub stats
 
 <picture>
