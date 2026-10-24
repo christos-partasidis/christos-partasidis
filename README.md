@@ -113,8 +113,9 @@ Built a strong engineering foundation across software, systems, mathematics, and
 
 [![English](https://img.shields.io/badge/🇬🇧_English-Fluent-FF7B00?style=for-the-badge)]()
 [![Greek](https://img.shields.io/badge/🇬🇷🇨🇾_Greek-Native-FF7B00?style=for-the-badge)]()
-[![Italian](https://img.shields.io/badge/🇮🇹_Italian-Learning(A2)-FF7B00?style=for-the-badge)]()
-[![French](https://img.shields.io/badge/🇫🇷_French-Learning(A2)-FF7B00?style=for-the-badge)]()
+[![German](https://img.shields.io/badge/🇩🇪_German-Learning(A1)-FF7B00?style=for-the-badge)]()
+[![Italian](https://img.shields.io/badge/🇮🇹_Italian-Learning(A1)-FF7B00?style=for-the-badge)]()
+[![French](https://img.shields.io/badge/🇫🇷_French-Learning(A1)-FF7B00?style=for-the-badge)]()
 
 ## Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF7B00?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christos-partasidis-622354242/)
