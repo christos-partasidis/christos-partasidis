@@ -1,127 +1,78 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=000000&width=500&lines=Hi,+I'm+Christos+;Nice+to+meet+you+%3A-%29)](https://git.io/typing-svg)
+# Christos Partasidis
 
-## Professional Summary:
-   Currently pursuing a double Masters MSc. in Computer Science & Financial Technologies at Politecnico di Milano and Université Côte d'Azur, with specialization in software security, blockchain, digital business innovation, and entrepreneurship. Background in academic research at Texas A&M and University of Cyprus. Recognized in innovation competitions and research programs, including JA StartUp Winner and Top-10 finalist at Polimi SINN.
-   
-   Innovation at the intersection of Software Engineering, Finance, and Security is what motivates me. I am looking forward to full-time opportunities throughout Europe in FinTech engineering, blockchain, software security, or other digital innovation roles
+Software and computer engineer working across data, software and FinTech. Currently a Business Intelligence Engineer Intern at Amazon in Luxembourg.
 
-## Projects:
-### Constellation: Safer Smart Contract Upgradability
+[Portfolio](https://christos-partasidis.vercel.app) | [LinkedIn](https://www.linkedin.com/in/christos-partasidis) | [Email](mailto:christospartasidis@gmail.com)
 
-A blockchain research project introducing a modular upgradability pattern designed to improve safety, compliance, rollback efficiency, and verification in smart contracts.
+## Experience
 
-- [Website](https://github.com/christos-partasidis/constellation-pattern)
+**Business Intelligence Engineer Intern, Amazon** | Luxembourg City | Jun 2026 - Dec 2026  
+Analytics, reporting automation and AI-assisted internal tools
 
-### Formal Verification Methods for Ethereum Smart Contracts
+**Junior Web Engineer, Alphamega Hypermarkets** | Nicosia | Mar 2024 - Sep 2024  
+Optimised web interfaces used by 10K+ daily online users and automated content and delivery operations
 
-Analyzed 2024–2025 research on theorem proving and model checking to strengthen Ethereum smart contract security through mathematical verification. Compared leading tools (Certora, SolCMC) and proposed a hybrid pipeline integrating economic and code level verification for DeFi systems.
+**Assurance Transformation Intern, PwC** | Nicosia | Sep 2023 - Oct 2023  
+Automated audit data preparation in Alteryx and built Power BI dashboards for financial reporting
 
-- [Website](https://github.com/christos-partasidis/Literature-Review-Formal-Verification-Smart-Contracts/tree/main)
+**Tech Consulting Intern, EY** | Nicosia | Jul 2023 - Aug 2023  
+Built a public-sector portal with WordPress and SQL, cutting online service response time by 20%
 
-### Foodino - Smart Kitchen Inventory App
+## Selected projects
 
-FoodCloud is an app that manages the shopping for you, from the supermarket to the kitchen: the app keeps track of the whole inventory of the household, sends a notification when a product is about to expire, suggests recipes with what you have and creates a smart shopping list that can be shared. Each family member has its own account and they all access the same household.
+**[Constellation](https://github.com/christos-partasidis/constellation-pattern)**  
+A safer upgradability pattern for smart contracts, formally verified with SMTChecker and Certora and benchmarked against Diamond
 
-- [Website](https://www.foodinoapp.com/)
-- Stack: React Native, Expo, Firebase, Javascript, OCR Pipeline, Computer Vision
+**[Formal Verification for Ethereum](https://github.com/christos-partasidis/Literature-Review-Formal-Verification-Smart-Contracts)**  
+Literature review of theorem proving and model checking for Ethereum contracts, comparing Certora and SolCMC
 
-### Portfolio Replication & Alpha Strategy Models
+**[Foodino](https://www.foodinoapp.com/)**  
+React Native kitchen app that tracks household food, warns before expiry and suggests recipes from what is in stock
 
-Studying elasticity based portfolio replication with risk metrics evaluation.
+**[FinTech Business Cases](https://christos-partasidis.vercel.app/projects)**  
+Four applied machine learning cases for financial institutions, including hedge-fund replication with Elastic Net and a crisis early-warning system
 
-- ElasticNet, Lasso, Ridge experiments
-- Rolling windows, VaR constraints, and multi-objective tuning
-- Tech: Python, scikit-learn, pandas, NumPy, Jupyter
+More on the [projects page](https://christos-partasidis.vercel.app/projects)
 
 ## Education
 
-### Double Master's Degree in Computer Science & Engineering  
-**Politecnico di Milano, Italy** & **Université Côte d’Azur, France**  
-*Sep 2024 – Sep 2026*
+**MSc Computer Science and Engineering, Université Côte d'Azur** | Nice | Sep 2025 - Dec 2026  
+28DIGITAL / EIT Digital double degree, specialisation in Financial Technologies, Business and Entrepreneurship, awarded scholar
 
-International double-degree program focused on **software engineering, fintech, security, blockchain, distributed systems, and digital innovation**.
+<details><summary>Courses</summary>
 
-**Relevant Coursework**
-- **Politecnico di Milano:** FinTech Engineering, Databases, Software Engineering, Digital Business Innovation, Strategy & Marketing
-- **Université Côte d’Azur:** Security & Privacy, Blockchain, Peer-to-Peer Systems, Actuarial Calculus, Data Science, Applied AI, JavaScript
+Data Science, Applied AI, Computer Security, Security and Privacy, Peer to Peer, Blockchain, FinTech, Actuarial Calculus, JavaScript
 
-### BSc in Computer Engineering  
-**University of Cyprus, Nicosia, Cyprus**  
-*Sep 2019 – Jan 2024*
+</details>
 
-Built a strong engineering foundation across software, systems, mathematics, and computing fundamentals.
+**MSc Computer Science and Engineering, Politecnico di Milano** | Milan | Sep 2024 - Jul 2025  
+28DIGITAL / EIT Digital double degree, entry year, awarded scholar
 
-**Relevant Coursework**
-- Computer Architecture
-- Data Structures & Algorithms
-- Machine Learning
-- Distributed Systems
-- Mobile Computing
-- Operating Systems
-- Mathematics for Engineers
-- Physics
+<details><summary>Courses</summary>
 
-## Professional Experience:
-### Junior Web Engineer - Alphamega 
-- Largest retail chain in Cyprus
-- Built & optimized web flows used by 10K+ daily users
-- Improved checkout, content automation & digital experience  
-- Tech: JavaScript, SQL, CMS, Power BI
+Software Engineering 2, Databases 1 and 2, Designing Digital Business Innovation Lab, High Tech Entrepreneurship, Strategy and Marketing, Innovation and Entrepreneurship Summer School
 
-### Assurance Transformation Intern - PwC
-- Automated audit workflows with Alteryx
-- Built Power BI dashboards for audit & financial reports
-- Tech: Alteryx, Power BI, RPA
+</details>
 
-### Tech Consulting Intern - EY
-- Developed & optimized public sector portal  
-- Improved system performance and online service UX by 20%
-- Tech: WordPress, SQL, Web Ops
+**BSc Computer Engineering, University of Cyprus** | Nicosia | Sep 2019 - Jan 2024  
+GPA 8.89 / 10, awarded scholar, thesis: [Enhancing the 3D Reconstruction Quality of Natural Scenes](https://github.com/christos-partasidis/bachelor-thesis-3d-reconstruction-evaluation-pipeline)
 
-## Highlights
-- Winner - JA Cyprus Startup Competition
-- Top-10 Finalist - Polimi Innovation Challenge (SINN)
-- Google Developer Student Community contributor
-- Texas A&M University AI Summer School
+<details><summary>Selected courses</summary>
 
-## Tech Stack:
+Data Structures and Algorithms, Distributed Systems, Operating Systems, Computer Networks, Computer Architecture I and II, Intelligent Systems, Mobile Computing Systems, Fault Tolerant Systems, Corporate Financial Management
 
-### Languages & Frameworks
+</details>
 
-![Python](https://img.shields.io/badge/Python-FF7B00?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-FF7B00?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-FF7B00?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-FF7B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF7B00?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-FF7B00?style=for-the-badge&logo=react&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-FF7B00?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-FF7B00?style=for-the-badge&logo=css3&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-FF7B00?style=for-the-badge&logo=solidity&logoColor=white)
+## Stack
 
-### Backend / Databases
-
-![SQL](https://img.shields.io/badge/SQL-FF7B00?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FF7B00?style=for-the-badge&logo=firebase&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-FF7B00?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-FF7B00?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-FF7B00?style=for-the-badge&logo=androidstudio&logoColor=white)
+| Area | Tools |
+|---|---|
+| Languages | Python, SQL, JavaScript, Java, C/C++, Solidity |
+| Data and ML | Power BI, Alteryx, Pandas, NumPy, scikit-learn, TensorFlow |
+| AI | LLM agents, explainable AI |
+| Blockchain | Smart contracts, Ethereum, formal verification (Certora, SMTChecker) |
+| Web and product | React Native, Expo, Firebase, WordPress, CI/CD, Git |
 
 ## Languages
 
-[![English](https://img.shields.io/badge/🇬🇧_English-Fluent-FF7B00?style=for-the-badge)]()
-[![Greek](https://img.shields.io/badge/🇬🇷🇨🇾_Greek-Native-FF7B00?style=for-the-badge)]()
-[![German](https://img.shields.io/badge/🇩🇪_German-Learning(A1)-FF7B00?style=for-the-badge)]()
-[![Italian](https://img.shields.io/badge/🇮🇹_Italian-Learning(A1)-FF7B00?style=for-the-badge)]()
-[![French](https://img.shields.io/badge/🇫🇷_French-Learning(A1)-FF7B00?style=for-the-badge)]()
-
-## Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF7B00?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christos-partasidis-622354242/)
-[![Email](https://img.shields.io/badge/Email-FF7B00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christospartasidis@gmail.com)
-
-## GitHub Stats:
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=christos-partasidis&bg_color=ffffff&color=193549&title_color=ff7b00&line=ff7b00&point=ff7b00&area=true&hide_border=true&custom_title=Contribution%20Graph)
-![Visitors](https://komarev.com/ghpvc/?username=christos-partasidis&style=for-the-badge&color=FF7B00&labelColor=FF7B00&label=VISITORS)
-
+Greek (native), English (fluent), French, Italian and German (A1)
